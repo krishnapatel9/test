@@ -1,5 +1,18 @@
-.App {
-  text-align: center;
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:100vh;
+}
+.marck-script-regular {
+  font-family: "Marck Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.text{
+  color:aquamarine;
+  font-size: 40px;
 }
 
 .App-logo {
